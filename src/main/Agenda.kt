@@ -1,3 +1,5 @@
+read fundamentals
+
 package main
 
 import java.util.*
